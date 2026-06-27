@@ -10,7 +10,7 @@ O objetivo é classificar o **tom emocional de comentários** coletados dos subr
 
 ```
 ├── PLN_Trabalho_02.ipynb   # Notebook principal com todo o pipeline
-└── Relatorio.pdf           # Relatório completo do projeto
+└── Relatório.pdf           # Relatório completo do projeto
 ```
 
 ---
